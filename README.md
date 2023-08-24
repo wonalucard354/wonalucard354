@@ -1,12 +1,10 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/wonalucard354/wonalucard354/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center"> Olá meu nome é Lucas Sou programador fullstack , acompanhe meus projetos e desafios!!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wonalucard354&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-wonalucard354.vercel.app/api/top-langs/?username=wonalucard354&show_icons=true&theme=radical&layout=compact" />
+
+![wonalucard354's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonalucard354&theme=shades-of-purple&show_icons=true)
  </div>
  
  &nbsp;
@@ -55,6 +53,10 @@ Em breve.
 
 Apaixonado em descobrir ferramentas e soluções que melhorem tanto meu dia a dia quanto das pessoas.
 Gosto de um desafio que me impulsione a crescer , não fico satisfeito com o bom e sim com o excelente. 
+Sou streamer também nome dos meus canais é wonalucard.
+
+## Streamer
+Em breve.
 
 ## Contacts:
 
@@ -63,6 +65,8 @@ Gosto de um desafio que me impulsione a crescer , não fico satisfeito com o bom
 <a href = "micaelluqrueison@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-dumas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https:// wa.me/5521990684615" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+
 </div>&nbsp;&nbsp;
  
 
