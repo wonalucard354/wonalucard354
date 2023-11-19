@@ -64,7 +64,7 @@ Em breve.
 <div> 
 
 <a href = "micaelluqrueison@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-dumas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank" title="linkedin"></a> 
+<a href="https://www.linkedin.com/in/lucas-dumas-2902b719a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank" title="linkedin"></a> 
 <a href="https://api.whatsapp.com/send/?phone=5521990684615&text&type=phone_number&app_absent=0" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="whatzapp" target="_blank"></a>
 
 
