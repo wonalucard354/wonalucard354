@@ -30,3 +30,4 @@
   </div>  
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/wonalucard354/count.svg)
