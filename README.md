@@ -6,6 +6,7 @@
 <h2>Eu sou o Lucas/I´m Lucas</h2>
 
 <h5>Você visitando meu github torna ele mais especial ainda!/You visiting my github makes it even more special!</h5>
+<h5>eu sou um desenvolvedor em constante evolução ,buscando novas oportunidades para me aperfeiçoar a cada dia</h5>
 <div>  
 <img src="https://github-readme-stats.vercel.app/api?username=wonalucard354&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonalucard354&layout=compact&langs_count=16&theme=dracula"/>
