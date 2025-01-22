@@ -10,7 +10,7 @@
 
 <div align="center">  
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonalucard354&layout=compact&langs_count=16&theme=dracula"/>
- <img src="https://streak-stats.demolab.com?user=wonalucard354&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
+ 
 </div>
 
 <h1>Meu contato e linkedin/My contact and linkedin</h1>
